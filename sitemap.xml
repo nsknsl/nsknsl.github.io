@@ -3,17 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://nsknsl.github.io/categories/</loc>
+    <loc>https://nsknsl.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://nsknsl.github.io/</loc>
+    <loc>https://nsknsl.github.io/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://nsknsl.github.io/tags/</loc>
+    <loc>https://nsknsl.github.io/series/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://nsknsl.github.io/tags/</loc>
     <priority>0</priority>
   </url>
   
