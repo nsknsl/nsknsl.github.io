@@ -8,17 +8,17 @@
   </url>
   
   <url>
-    <loc>https://nsknsl.github.io/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://nsknsl.github.io/series/</loc>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://nsknsl.github.io/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://nsknsl.github.io/</loc>
     <priority>0</priority>
   </url>
   
